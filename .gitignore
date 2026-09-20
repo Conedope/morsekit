@@ -1,0 +1,6 @@
+# build artifacts
+/morsekit
+/bin/
+*.test
+*.out
+*.prof
